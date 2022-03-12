@@ -1,5 +1,5 @@
 ---
-title: "Working with Data Test"
+title: "Working with Data"
 author: "Joshua F. Wiley - last updated Michelle Byrne"
 date: "`r Sys.Date()`"
 output:
