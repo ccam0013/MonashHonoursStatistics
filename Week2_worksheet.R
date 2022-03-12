@@ -3,7 +3,7 @@ library(reshape2)
 
 library(extraoperators)
 
-### 1. Vectors test###
+### 1. Vectors###
 
 ## First let's remember how we create vectors
 ## Assign a vector with the numbers 8, 3, 5, and 6 to an object called v
