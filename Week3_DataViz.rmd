@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization"
+title: "Data Visualization test"
 author: "Joshua F. Wiley/Pei Hwa Goh/Michelle Byrne"
 date: "`r Sys.Date()`"
 output: 
